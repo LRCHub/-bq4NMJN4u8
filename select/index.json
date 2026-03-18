@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "base_track": "シカバネーゼ",
+  "base_artist": "jon-YAKITORY",
+  "createdAt": "2026-03-18T15:19:17.694230Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シカバネーゼ",
+      "artist": "jon-YAKITORY",
+      "has_synced": false,
+      "path": "select/pl_01_シカバネーゼ_jon-YAKITORY.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "シカバネーゼ",
+      "artist": "jon-YAKITORY",
+      "has_synced": true,
+      "path": "select/localdb_01_シカバネーゼ_jon-YAKITORY.lrc",
+      "repo_name": "-yl6v5ezpuo"
+    }
+  ]
+}
